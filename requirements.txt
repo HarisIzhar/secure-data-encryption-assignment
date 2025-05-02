@@ -1,3 +1,2 @@
-
-cryptography
-streamlit
+cryptography==3.4.7
+streamlit==1.12.0
